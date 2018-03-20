@@ -7,6 +7,8 @@ end
 
 gem 'devise'
 gem 'carrierwave', '~> 1.0'
+gem "react_on_rails", "10.0.0"
+gem "webpacker", "~> 3.0"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.5'
 # Use postgresql as the database for Active Record
